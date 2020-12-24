@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">智能门锁</string>
+    <string name="action_settings">设置</string>
+
+    <string name="api_key">API KEY</string>
+    <string name="device_id">DEVICE ID</string>
+    <string name="remote_id">REMOTE ID</string>
+    <string name="save">保存</string>
+    <string name="open_door">开门</string>
+    <string name="door_open_history">开门记录</string>
+    <string name="door_status_history">历史状态</string>
+    <string name="settings">设置</string>
+
+    <string name="open_text">开</string>
+    <string name="close_text">关</string>
+    <string name="successful_text">成功!</string>
+    <string name="infrared_text">红外遥控 </string>
+    <string name="remote_text">远程网络</string>
+    <string name="fingerprint_text">指纹识别</string>
+    <string name="date_text">日期</string>
+    <string name="time_text">时间</string>
+
+    <string name="not_empty_text">参数不能为空!</string>
+    <string name="save_successful_text">保存成功!</string>
+
+    <string name="_996_text">996</string>
+    <string name="online_text">在线</string>
+    <string name="offline_text">离线</string>
+</resources>
